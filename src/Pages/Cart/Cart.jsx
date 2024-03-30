@@ -7,7 +7,7 @@ const Cart = () => {
   const { cartItems, food_list, removeFromCart, getTotalCartAmount } = useContext(StoreContext);
 
   
-const navigate =useNavigate();
+const navigate =useNa\();
 
   return (
     <div className="cart">
